@@ -1,5 +1,5 @@
 body{
-    background-image: url('background.jpeg');
+    background-image: url('./Pictures/superhero1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
