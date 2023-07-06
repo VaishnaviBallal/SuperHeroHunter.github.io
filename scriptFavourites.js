@@ -54,12 +54,7 @@ apiRequest.onreadystatechange = function(){
           "src",
           data.image.url ?? "default-hero-image.jpeg"
         );
-        // if(data.image.response=="success"){
-        //     imageOfHero.setAttribute('src',data.image.url);
-
-        // }else{
-        //     imageOfHero.setAttribute('src','default-hero-image.jpeg');
-        // }
+        
 
         //adding delete button
 
